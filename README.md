@@ -29,5 +29,4 @@ Dumping ground for ESP32 based kubernetes gadget.
         u8g2.drawStr(1,18,"*> Cluster-XBCDEFGHIG");
         u8g2.drawStr(1,28,"   Cluster-PQRSTUVWXY");
    }
-```}
-
+```
