@@ -21,6 +21,8 @@ Dumping ground for ESP32 based kubernetes gadget.
 
 ![Cluster Select](images/1_cluster_select.png)
 
+![Deployment View](images/2_deployment_view.png)
+
 ```cpp
     void draw(U8G2 u8g2) {
         u8g2.setDrawColor(1);
