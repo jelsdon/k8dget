@@ -30,3 +30,10 @@ Dumping ground for ESP32 based kubernetes gadget.
         u8g2.drawStr(1,28,"   Cluster-PQRSTUVWXY");
    }
 ```
+
+## Equipment
+* SoC: ESP32
+* Display: SSD1306 128x32
+* Input:
+  * EC11 Rotory encoder
+  * SPST Micro tachtile switch
