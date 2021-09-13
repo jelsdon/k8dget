@@ -5,6 +5,7 @@ Dumping ground for ESP32 based kubernetes gadget.
 
 ## Functions
 * Select cluster
+* Select namespace
 * Select resource
   * Pods
     * View status
